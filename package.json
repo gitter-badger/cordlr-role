@@ -1,0 +1,19 @@
+{
+  "name": "cordlr-role",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devcord/cordlr-role.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devcord/cordlr-role/issues"
+  },
+  "homepage": "https://github.com/Devcord/cordlr-role#readme"
+}
