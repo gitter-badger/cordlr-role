@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Devcord/cordlr-role/issues"
   },
-  "homepage": "https://github.com/Devcord/cordlr-role#readme"
+  "homepage": "https://github.com/Devcord/cordlr-role#readme",
+  "keywords": [
+    "cordlr",
+    "cordlr-plugin",
+    "role",
+    "roles",
+    "discord"
+  ]
 }
